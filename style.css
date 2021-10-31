@@ -90,20 +90,22 @@ button {
     color: hsl(223, 47%, 23%);
 }
 .container {
-    background-color: #fff;
-
+    background-color: #fff; 
+    height: 640px; 
     margin: 20px;
     padding-bottom: 20px;
     border-radius: 20px;
     box-shadow: 0px 25px 10px -20px hsl(224, 23%, 55%);
+    
 }
+
 .container h1 {
     color: hsl(223, 47%, 23%);
     margin: 10px 0;
 }
 
 .container p.descripcion {
-    padding: 0 30px;
+    padding: 0 70px;
 }
 .container img.bailando {
     width: 100%;
@@ -122,6 +124,7 @@ button {
     justify-content: space-between;
 }
 .container .precio article {
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,6 +138,7 @@ button {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
 }
 /*atributos */
 .credito { 
