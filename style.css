@@ -23,6 +23,8 @@ img {
 }
 
 body {
+    background-image: url("../images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
     font-family: "Red Hat Display", sans-serif;
     background-color: var(--Pale-blue);
     text-align: center;
@@ -85,6 +87,7 @@ button {
 .boton-cancela {
     background-color: transparent;
     color: var(--Desaturated-blue);
+    margin: 18px;
 }
 .boton-cancela:hover {
     color: hsl(223, 47%, 23%);
@@ -140,10 +143,12 @@ button {
     justify-content: center;
     
 }
+
 /*atributos */
 .credito { 
     font-size: 11px; 
-    text-align: center; 
+    text-align: center;
+    
 }
 .credito a { 
     color: hsl(228, 45%, 44%); 
