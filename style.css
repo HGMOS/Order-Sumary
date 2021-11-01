@@ -156,7 +156,7 @@ button {
     color: hsl(228, 45%, 44%); 
 }
 /*hacer que se ajuste en comptupador*/
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .imagen-bailando {
         background: url("/images/pattern-background-desktop.svg") center/cover 
             no-repeat;
