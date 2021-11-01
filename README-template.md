@@ -32,8 +32,8 @@ Desarrollar habilidades de HTML y CSS:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HGMOS/Order-Sumary-Challenge)
-- Live Site URL: [Add live site URL here](https://hgmos.github.io/Order-Sumary-Challenge/)
+- Solución URL: [https://github.com/HGMOS/Order-Sumary-Challenge](https://github.com/HGMOS/Order-Sumary-Challenge)
+- Live Site URL: [https://hgmos.github.io/Order-Sumary-Challenge/](https://hgmos.github.io/Order-Sumary-Challenge/)
 
 ## Mi proceso
 
