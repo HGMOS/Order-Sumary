@@ -57,9 +57,9 @@ Mejores formas de dar estilo
 
 ## Sobre mí
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/hjgmos/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/HGMOS)
-- Twitter - [@yourusername](https://twitter.com/nacoro95)
+- LinkedIn - [Hernan Gonzalez Mosquera](https://www.linkedin.com/in/hjgmos/)
+- Frontend Mentor - [@HGMOS](https://www.frontendmentor.io/profile/HGMOS)
+- Twitter - [@nacoro95](https://twitter.com/nacoro95)
 
 
 
