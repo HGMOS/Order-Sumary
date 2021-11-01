@@ -24,7 +24,7 @@ img {
 
 body {
     background-image: url("./images/pattern-background-desktop.svg");
-    background-size: auto;
+    background-size: contain;
     background-repeat: no-repeat;
     font-family: "Red Hat Display", sans-serif;
     background-color:hsl(225, 100%, 94%);
